@@ -1,5 +1,3 @@
-```
-
 \# Báo cáo Bài 2 - Quản lý nhánh và giải quyết xung đột
 
 
